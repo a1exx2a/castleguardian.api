@@ -30,7 +30,7 @@ Web API, моделирующее взаимодействие посетите�
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone <ссылка_на_ваш_репозиторий>
+   git clone https://github.com/a1exx2a/castleguardian.api.git
    cd CastleGuardian.Api
    ```
 
